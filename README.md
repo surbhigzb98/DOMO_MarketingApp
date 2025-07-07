@@ -31,3 +31,4 @@ Highlighted top-performing campaigns and content
 
 🧠 Challenges & Learnings
 Faced challenges in standardizing KPIs across platforms. Resolved using calculated fields in DOMO. Learned to use interactive drill-downs and embedded narratives for executive stakeholders.
+![image](https://github.com/user-attachments/assets/87a41634-8768-40e8-b3f4-f5d651c8b1a4)
